@@ -6,3 +6,18 @@ git init
 
 git status
 - para verificar status do repósitorio git
+
+git commit -m ""
+- para comitar com comentario 
+
+git log
+- para ver o historico de modificações
+
+git shortlog
+- para ver quem commitou e a quantidade
+
+git diff
+- para mostrar uma modificação antes do commit
+
+git checkout 
+- para resetar modificações git
